@@ -6,9 +6,10 @@ Cara Install :
 2. Create database (sesuai config database)
 3. Jalankan Migrasi caranya, contoh : ketikan url "http://localhost/apk_test/app/migrate"
 4. login username password sudah dibuatkan di database
-   #################################################################################################3
+   ######################################################################################
 
 Untuk Test Api
 
 1. test api login dengan url "http://localhost/apk_test/api/v1/user/login"
 2. test api view dengan url "http://localhost/apk_test/api/v1/user/view", masukan key di header "authorization",value di dapat dari token login
+3. test melihat data tabel login by api "http://localhost/apk_test/api/v1/user/all"
