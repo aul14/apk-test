@@ -12,3 +12,4 @@ Untuk Test Api
 
 1. test api login dengan url "http://localhost/apk_test/api/v1/user/login"
 2. test api view dengan url "http://localhost/apk_test/api/v1/user/view", masukan key di header "authorization",value di dapat dari token login
+3. test melihat data tabel login by api "http://localhost/apk_test/api/v1/user/all"
