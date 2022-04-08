@@ -60,3 +60,4 @@ $route['api/v1/key'] = 'user_api/api_key';
 
 $route['api/v1/user/login'] = 'user_api/login';
 $route['api/v1/user/view'] = 'user_api/view';
+$route['api/v1/user/all'] = 'user_api/view_user';

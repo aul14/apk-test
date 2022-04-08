@@ -390,3 +390,9 @@ ERROR - 2022-04-08 14:24:31 --> $config['composer_autoload'] is set to TRUE but 
 ERROR - 2022-04-08 14:24:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
 ERROR - 2022-04-08 14:24:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
 ERROR - 2022-04-08 14:30:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
+ERROR - 2022-04-08 14:59:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
+ERROR - 2022-04-08 14:59:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
+ERROR - 2022-04-08 14:59:46 --> Severity: Notice --> Undefined property: User_Api::$Userlogin_model C:\xampp\htdocs\apk_test\application\controllers\User_api.php 30
+ERROR - 2022-04-08 14:59:46 --> Severity: Error --> Call to a member function listing() on null C:\xampp\htdocs\apk_test\application\controllers\User_api.php 30
+ERROR - 2022-04-08 15:00:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
+ERROR - 2022-04-08 15:00:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\apk_test\application\vendor/autoload.php was not found.
