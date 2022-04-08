@@ -125,7 +125,7 @@
         <div class="footer-inner">
             <div class="footer-content">
                 <span class="bigger-120">
-                    <span class="blue bolder"> Created By IT Department PT. L'ESSENTIAL</span>
+                    <span class="blue bolder"> Created By Aul</span>
                     &nbsp;Application &copy; <?= date('Y') ?>
             </div>
         </div>

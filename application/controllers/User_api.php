@@ -19,13 +19,6 @@ class User_Api extends API_Controller
             //  'requireAuthorization' => true,
         ]);
 
-        // you user authentication code will go here, you can compare the user with the database or whatever
-        // $payload = [
-        //     'nama' => "Aulia Rahman",
-        //     'tgl_lahir' => "1999-08-17",
-        //     'umur' => 23,
-        //     'pendidikan' => "D3",
-        // ];
 
         $payload = $this->userlogin_model->listing();
 
@@ -47,6 +40,8 @@ class User_Api extends API_Controller
             200
         );
     }
+
+
 
     public function view_user()
     {
